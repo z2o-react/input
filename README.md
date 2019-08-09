@@ -40,8 +40,8 @@ online example: [https://z2o-react.github.io/input/](https://z2o-react.github.io
 | allowClear   | Boolean             | `false`     | 显示清除按钮                 |
 | prefix       | string \| ReactNode | -           | 带有前缀图标的 input         |
 | suffix       | string \| ReactNode | -           | 带有后缀图标的 input         |
-| addonAfter   | string \| ReactNode   | -           | 带标签的 input，设置后置标签 |
-| addonBefore  | string \| ReactNode   | -           | 带标签的 input，设置前置标签 |
+| addonAfter   | string \| ReactNode | -           | 带标签的 input，设置后置标签 |
+| addonBefore  | string \| ReactNode | -           | 带标签的 input，设置前置标签 |
 | autoFocus    | Boolean             | `false`     | 自动 focus                   |
 | onChange     | function(e)         | -           | 输入框内容变化时的回调       |
 | onPressEnter | function(e)         | -           | 按下回车的回调               |

@@ -47,7 +47,8 @@
     "pre-commit": "^1.2.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "typescript": "^3.5.3"
+    "typescript": "^3.5.3",
+    "utility-types": "^3.7.0"
   },
   "pre-commit": [
     "prettier"
